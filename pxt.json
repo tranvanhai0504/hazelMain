@@ -1,0 +1,53 @@
+{
+    "name": "Hazel - Copy - Copy - Copy - Copy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "darts": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.24",
+        "Color Fading": "github:jwunderl/pxt-color#v0.2.2",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
+        "animation": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.1",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.8.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#ffffff",
+        "#ff2121",
+        "#003fad",
+        "#ff8135",
+        "#fff609",
+        "#5b5b5b",
+        "#81a870",
+        "#dabd5b",
+        "#87f2ff",
+        "#7d35a6",
+        "#a4839f",
+        "#5c406c",
+        "#e5cdc4",
+        "#84453e",
+        "#000000"
+    ]
+}
